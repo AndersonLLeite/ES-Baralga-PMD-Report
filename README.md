@@ -1,2 +1,2 @@
 # ES-Baralga-PMD-Report
-https://github.com/AndersonLLeite/ES-Baralga-PMD-Report/new/main?readme=1
+https://andersonlleite.github.io/ES-Baralga-PMD-Report/
